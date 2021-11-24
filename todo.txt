@@ -1,0 +1,6 @@
+
+
+work out horizontal resolution
+decide on character set
+change font to codepage 437
+build micropython into it?
