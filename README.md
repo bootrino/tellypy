@@ -4,9 +4,13 @@
 -----------------
 
 THIS PROJECT IS CURRENTLY JUST AN EXPERIMENTAL HACK
+
 It takes espple and drops the Apple 1 emulation
+
 The goal is to add micropython in
+
 The code works but does nothing except display information
+
 The code is here in case others want to help work on it.
 
 # It's a mess in here so be warned.
