@@ -1,5 +1,5 @@
 # TellyPy - MicroPython on old analog TVs via esp8266.
-# This project aims to make old analog TVs useful and fun.
+# This project aims to make old analog TVs fun by running micropython on them.
 
 -----------------
 
