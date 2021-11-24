@@ -1,12 +1,12 @@
-# TellyPy - MicroPython on old analog TVs.
+# TellyPy - MicroPython on old analog TVs via esp8266.
 # This project aims to make old analog TVs useful and fun.
 
 -----------------
 # THIS PROJECT IS CURRENTLY JUST AN EXPERIMENTAL HACK
-# It takes espple and drops the Apple 1 emulation
-# The goal is to add micropython in
-# The code works but does nothing except display information
-# The code is here in case others want to help work on it.
+It takes espple and drops the Apple 1 emulation
+The goal is to add micropython in
+The code works but does nothing except display information
+The code is here in case others want to help work on it.
 
 # It's a mess in here so be warned.
 
@@ -19,10 +19,10 @@ Also to run micropython on the esp8266.
 Contact: andrew.stuart@supercoders.com.au
 
 Credit to cnlohr for the original NTSC code
+
 Credit to hrvach for the espple code which built on cnlohr's code
 
 Todo:
-- give project a new name because it has different goals to prior art
 - add micropython
 - replace the font with something more like CP437 
 - decide how Python code should be uploaded
