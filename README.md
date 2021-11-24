@@ -1,8 +1,6 @@
 # TellyPy - MicroPython on old analog TVs via esp8266.
 # This project aims to make old analog TVs fun by running micropython on them.
 
------------------
-
 THIS PROJECT IS CURRENTLY JUST AN EXPERIMENTAL HACK
 
 It takes espple and drops the Apple 1 emulation
