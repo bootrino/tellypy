@@ -2,7 +2,8 @@
 # This project aims to make old analog TVs useful and fun.
 
 -----------------
-# THIS PROJECT IS CURRENTLY JUST AN EXPERIMENTAL HACK
+
+THIS PROJECT IS CURRENTLY JUST AN EXPERIMENTAL HACK
 It takes espple and drops the Apple 1 emulation
 The goal is to add micropython in
 The code works but does nothing except display information
